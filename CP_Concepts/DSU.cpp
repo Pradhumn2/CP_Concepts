@@ -19,8 +19,6 @@ void find(int node){
 	return par[node] = find(par[node]);
 }
 
-//Sourav 
-
 void Union(int a, int b){
 	int a = find(a);
 	int b = find(b);
