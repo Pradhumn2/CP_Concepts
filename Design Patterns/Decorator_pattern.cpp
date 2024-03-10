@@ -1,6 +1,9 @@
 
 /************************ DECORATOR PATTERN ****************************
 
+-> This pattern attaches additional responsibilites to an object dynamically.
+-> Decorators provide a flexible alternative to subclassing for extending functionality.
+
 -> Used to avoid class explosion
 -> CLASS EXPLOSION : creation of multiple classes for performing particular task.
 -> eg: Pizza base class and adding toppings in it for diff pizza's.
